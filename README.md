@@ -14,7 +14,7 @@ The general format of each day will be the following:
     * Introductory lecture 
     * Guided workshop
 2. **Afternoon**:
-    * Start of potentially assessed exercise (with help of TAs)
+    * Start of potentially assessed challenge (with help of TAs)
 
 The schedule of the Module is presented in the following table.
 
