@@ -16,6 +16,8 @@ The general format of each day will be the following:
 2. **Afternoon**:
     * Start of potentially assessed challenge (with help of TAs)
 
+The data for all workshops can be downloaded [here](https://imperiallondon-my.sharepoint.com/:f:/r/personal/vg816_ic_ac_uk/Documents/Module3?csf=1&web=1&e=ddMhki).
+
 The schedule of the Module is presented in the following table.
 
 | Date | Topic | Morning Schedule | Afternoon Schedule| 
