@@ -23,4 +23,6 @@ The schedule of the Module is presented in the following table.
 | Date | Topic | Morning Schedule | Afternoon Schedule| 
 | :---: | :---: |:--- |:--- |
 | 10th November | Introduction to Programming | <ul><li>*OPTION 1*: Review of primer exercises + Q&A on lectures and exercises </li><li>*OPTION 2*: Advanced visualization using Seaborn</li></ul> | Coding marathon: 8 exercises, 30 minutes each |  
-| 11th November | Big data analysis: COVID and Cognition | <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> | <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | 
+| 11th November | Big data analysis: COVID and Cognition| <ul><li>*LECTURE:* Data cleaning and processing</li><li>*GUIDED WORKSHOP*: big data analysis of COVID and Cognition</li></ul> |  <ul><li>*CHALLENGE*: big data analysis of Dementia and Cognition </li><li> *LECTURE:* How to write a report?</li></ul> | 
+| 14th November |  Cognition and self harm  | <ul><li>*LECTURE:* Cognitive differences in self harm </li><li>Lived experience interview </li><li>*GUIDED WORKSHOP*: cognition and self harm</li></ul> | *CHALLENGE*: Cognition and eating disorders | 
+| 15th November |  Introduction to fMRI and sMRI analysis | *GUIDED WORKSHOP*: analysis of Parkinson's fMRI data | *CHALLENGE*: analysis of OCD fMRI data| 
